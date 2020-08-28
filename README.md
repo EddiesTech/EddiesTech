@@ -1,4 +1,4 @@
-![](header.png)
+![](https://github.com/EddiesTech/EddiesTech/raw/master/header.png)
 
 <!--
 **EddiesTech/EddiesTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
