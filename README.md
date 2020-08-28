@@ -8,3 +8,5 @@
 🌱 I’m currently learning Node.js, Express, ejs, etc.
 
 📫 How to reach me: You can reach me via [my website](https://eddiestech.co.uk/contact)
+
+Thanks to [Khaleel Gibran](https://github.com/khalby786) and his README welcome image generator [REHeader](https://reheader.glitch.me/) ([View it on GitHub](https://github.com/khalby786/REHeader))
