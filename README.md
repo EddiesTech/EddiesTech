@@ -3,7 +3,7 @@
 <!--
 **EddiesTech/EddiesTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-🔭 I’m currently working on [MadeWithGlitch.me](https://madewithglitch.me) with [Riverside Rocks](https://riverside.rocks) ([View on GitHub](https://github.com/RiversideRocks)) and [Khaleel Gibran](https://khaleelgibran.com) ([View on GitHub](https://github.com/khalby786))
+🔭 I’m currently working on my own [Virtual Learning Environment](https://en.wikipedia.org/wiki/Virtual_learning_environment) and [MadeWithGlitch.me](https://madewithglitch.me) with [Riverside Rocks](https://riverside.rocks) ([View on GitHub](https://github.com/RiversideRocks)) and [Khaleel Gibran](https://khaleelgibran.com) ([View on GitHub](https://github.com/khalby786))
 
 🌱 I’m currently learning Node.js, Express, ejs, etc.
 
